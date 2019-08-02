@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 194413e86cad40a41afb2cdc5ad38998
+timeCreated: 1531484366
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - music: {fileID: 1733128632300328, guid: ad707bd9ce226ba45a05b077c9696f05, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

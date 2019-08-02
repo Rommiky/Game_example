@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1f083e008eb6479439ee22371b5d73c6
+timeCreated: 1531381461
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - turnsignal: {fileID: 1733128632300328, guid: ad707bd9ce226ba45a05b077c9696f05,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
